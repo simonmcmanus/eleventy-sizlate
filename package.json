@@ -1,6 +1,6 @@
 {
     "name": "eleventy-sizlate",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -9,6 +9,6 @@
     "author": "Simon McManus",
     "license": "ISC",
     "dependencies": {
-        "sizlate": "^4.1.0"
+        "sizlate": "^4.2.1"
     }
 }
